@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Partidos>
+    <partido>
+        <equipo1>Patato</equipo1>
+        <equipo2>Petata</equipo2>
+        <fecha>24-5-2000</fecha>
+        <res1>12</res1>
+        <res2>23</res2>
+    </partido>
+    <partido>
+        <equipo1>Patato</equipo1>
+        <equipo2>Petata</equipo2>
+        <fecha>24-5-2000</fecha>
+        <res1>12</res1>
+        <res2>23</res2>
+    </partido>
+</Partidos>

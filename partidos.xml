@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<partidos>
+    <partido>
+        <equipo nombre="Nottingham Prisa">
+            <puntos>34</puntos>
+        </equipo>
+        <equipo nombre="Maccabi de Levantar">
+            <puntos>38</puntos>
+        </equipo>
+        <fecha>12-11-2021</fecha>
+
+    </partido>
+
+    <partido>
+        <equipo nombre="Maccabi de Levantar">
+            <puntos>82</puntos>
+        </equipo>
+        <equipo nombre="Aston Birra">
+            <puntos>71</puntos>
+        </equipo>
+        <fecha>12-11-2021</fecha>
+    </partido>
+
+    <partido>
+        <equipo nombre="Inter Mitente">
+            <puntos>37</puntos>
+        </equipo>
+        <equipo nombre="Maccabi de Levantar">
+            <puntos>56</puntos>
+        </equipo>
+        <fecha>13-11-2021</fecha>
+    </partido>
+
+
+</partidos>
